@@ -1,0 +1,1 @@
+import{_ as e}from"./Content-c847c037.js";import{o as a,c as o,a as t}from"./index-10a2018a.js";const s={class:"main"},i={__name:"MovieView",setup(c){return(_,r)=>(a(),o("main",s,[t(e,{type:"movie"})]))}};export{i as default};

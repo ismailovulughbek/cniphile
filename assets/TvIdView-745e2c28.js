@@ -1,0 +1,1 @@
+import{_ as e,o as s,c,b as o}from"./index-10a2018a.js";const t={},n={class:"main"},_=o("h4",null,"Tv Id View",-1),a=[_];function r(i,d){return s(),c("main",n,a)}const f=e(t,[["render",r]]);export{f as default};

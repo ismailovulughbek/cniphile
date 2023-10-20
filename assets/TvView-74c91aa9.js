@@ -1,0 +1,1 @@
+import{_ as e}from"./Content-c847c037.js";import{o as a,c as t,a as o}from"./index-10a2018a.js";const s={class:"main"},i={__name:"TvView",setup(c){return(_,r)=>(a(),t("main",s,[o(e,{type:"tv"})]))}};export{i as default};
